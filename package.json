@@ -1,0 +1,13 @@
+{
+    "name": "docker_eeman_halal",
+    "version": "1.0.0",
+    "description": "Node.js eeman on Docker",
+    "author": "ogunrinu",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
